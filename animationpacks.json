@@ -1,0 +1,40 @@
+[
+    {
+        "_comment": "All animation IDs has been pulled independently by the Bandu Team. If you're gonna use this for your own emotes menu, please credit us. We will be updating this list periodically and automatically."
+    },
+    {
+        "Animations": {
+            "idle": {
+                "Animation1": "http://www.roblox.com/asset/?id=616006778",
+                "Animation2": "http://www.roblox.com/asset/?id=616008087"
+            },
+            "jump": {
+                "JumpAnim": "http://www.roblox.com/asset/?id=616008936"
+            },
+            "run": {
+                "RunAnim": "http://www.roblox.com/asset/?id=616010382"
+            },
+            "swim": {
+                "Swim": "http://www.roblox.com/asset/?id=616011509"
+            },
+            "swimidle": {
+                "SwimIdle": "http://www.roblox.com/asset/?id=616012453"
+            },
+            "climb": {
+                "ClimbAnim": "http://www.roblox.com/asset/?id=616003713"
+            },
+            "fall": {
+                "FallAnim": "http://www.roblox.com/asset/?id=616005863"
+            },
+            "pose": {
+                "PoseAnim": "http://www.roblox.com/asset/?id=616006778"
+            },
+            "walk": {
+                "WalkAnim": "http://www.roblox.com/asset/?id=616013216"
+            }
+        },
+        "BundleId": 427999,
+        "Name": "Adidas Sports Animation Pack",
+        "ProductId": 0
+    }
+]
